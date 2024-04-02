@@ -1,0 +1,39 @@
+.top{
+height: 123px;
+width: 600px;
+background-color: orange;
+position:relative;
+top: 200px;
+left: 450px;
+}
+
+
+.middle{
+height: 123px;
+width: 600px;
+background-color: white;
+position: relative;
+top: 200px;
+left: 450px;
+}
+
+
+img{
+    height: 123px;
+    width: 122px;
+    position:absolute;
+    left: 245px;
+}
+body{
+    background-color: black;
+}
+
+    
+.bottom{
+    height: 123px;
+    width: 600px;
+    background-color: green;
+    position: relative;
+    top: 200px;
+    left: 450px;
+}
